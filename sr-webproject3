@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Unordered Lists</title>
+    </head>
+         <body>
+    <h1>Todays Shopping</h1>
+    <p>Shopping List</p>
+        <ul>
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Eggs</li>
+    <li>Chocolate</li>
+    <li>Lemonade</li>
+        </ul>
+        </body>
+</html>
